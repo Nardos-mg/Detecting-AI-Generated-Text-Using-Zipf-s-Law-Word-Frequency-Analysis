@@ -1,0 +1,2 @@
+# Detecting-AI-Generated-Text-Using-Zipf-s-Law-Word-Frequency-Analysis
+It contains a data-driven text analysis tool designed to differentiate between human-written content and AI-generated text.Unlike heavy machine learning models, this project leverages Zipf's Law—the empirical observation that the frequency of any word in a natural language corpus is inversely proportional to its rank in the frequency table.
