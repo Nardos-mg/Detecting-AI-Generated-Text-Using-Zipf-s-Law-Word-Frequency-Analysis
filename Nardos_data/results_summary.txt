@@ -1,0 +1,32 @@
+NARDOS AYELE — RESULTS SUMMARY
+Detecting AI-Generated Text Using Zipf's Law
+
+Human texts  : 500
+AI texts     : 500
+
+Zipf Slope (α)
+  Human: 0.6218
+  AI   : 0.4006
+
+Type-Token Ratio
+  Human: 0.5224
+  AI   : 0.7367
+
+Hapax Ratio
+  Human: 0.3780
+  AI   : 0.6226
+
+Mid-Range Ratio
+  Human: 0.4231
+  AI   : 0.3610
+
+Mandelbrot Offset
+  Human: 0.2895
+  AI   : 0.3025
+
+Classifier Performance
+  Accuracy  : 99.50%
+  Precision : 99.01%
+  Recall    : 100.00%
+  F1 Score  : 99.50%
+  CV Score  : 99.80%
